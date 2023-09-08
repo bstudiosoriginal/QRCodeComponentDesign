@@ -5,6 +5,7 @@ html {
 body {
     margin-top: 10%;
     background-color: #d6e2f0;
+    margin-bottom: 10%;
 }
 body .centerbox {
     margin: auto;
@@ -14,4 +15,8 @@ body .centerbox {
     background-color: white;
     border-radius: 6%;
     padding: 0px;
+}
+body .centerbox .hover{
+    width: 360px;
+    height: 460px;
 }
