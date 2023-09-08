@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+body {
+    margin-top: 10%;
+    background-color: hsl(212, 45%, 89%);
+    
+    .centerbox {
+        margin: auto;
+        
+        width: 320px;
+        height: 450px;
+        border-top: 15px solid white;
+        background-color: white;
+        border-radius: 6%;
+        padding: 0px;
+        
+    }
+    
+}
